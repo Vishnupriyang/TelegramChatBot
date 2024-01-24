@@ -38,7 +38,7 @@ All of this is made possible thanks to this interface for the Telegram Bot API  
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vishnupriyang/Telegra.ph)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vishnupriyang/TelegramChatBot)
 
 
 ### Installation
