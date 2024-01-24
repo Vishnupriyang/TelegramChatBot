@@ -16,15 +16,22 @@
             "description": "Get /I'd enter"
         }
     },
-    "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "eco"
-    }
-  },
     "buildpacks": [
-        {
-            "url": "heroku/python"
-        }
-    ]
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ],
+      "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "eco"
+          }
+      },
+      "stack": "container"
 }
