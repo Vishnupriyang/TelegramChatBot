@@ -14,7 +14,7 @@
         },
         "ADMIN_ID": {
             "description": "Get /I'd enter"
-        },
+        }
     },
     "formation": {
     "worker": {
