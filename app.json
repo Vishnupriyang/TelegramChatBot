@@ -9,12 +9,15 @@
         "Pyrogram bot"
     ],
     "env": {
-        "BOT_TOKEN": {
-            "description": "description": "Get from Telegram's @BotFather"
-        },
-        "ADMIN_ID": {
+        "API_ID": {
             "description": "Get from my.telegram.org/apps"
-            }
+        },
+        "API_HASH": {
+            "description": "Get from my.telegram.org/apps"
+        },
+        "BOT_TOKEN": {
+            "description": "Get from Telegram's @BotFather"
+        }
     },
     "formation": {
     "worker": {
