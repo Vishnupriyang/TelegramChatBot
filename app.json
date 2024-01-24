@@ -14,8 +14,7 @@
         },
         "ADMIN_ID": {
             "description": "Get from my.telegram.org/apps"
-            
-        }
+            }
     },
     "formation": {
     "worker": {
